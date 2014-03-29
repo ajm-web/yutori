@@ -1,0 +1,21 @@
+
+public class FizzBuzz {
+
+	public class FizzBuzzTest {
+	  //please implment
+
+		public String calc(int i) {
+			System.out.println(" in calc : " + i);
+
+			return "";
+		}
+
+	}
+
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

@@ -1,0 +1,11 @@
+
+public class FizzBuzzTest implements FizzBuzz{
+  //please implment
+
+	public String calc(int i) {
+		System.out.println(" in calc : " + i);
+
+		return "";
+	}
+
+}
