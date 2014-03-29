@@ -4,7 +4,7 @@ public class FizzBuzzTest implements FizzBuzz{
 
 	public String calc(int i) {
 
-		if (i % 3 == 0 && i % 5 == 0) {
+		if (i % 15 == 0) {
 
 			return "FizzBuzz";
 
