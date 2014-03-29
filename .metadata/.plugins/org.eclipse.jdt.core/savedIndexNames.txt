@@ -1,0 +1,20 @@
+INDEX VERSION 1.126+C:\usr\workspace\yutori\.metadata\.plugins\org.eclipse.jdt.core
+929886588.index
+1753519264.index
+1540458648.index
+967362794.index
+195786745.index
+2593748322.index
+996258646.index
+3735774941.index
+702905704.index
+3480791575.index
+1299542070.index
+2143809000.index
+3234263807.index
+2900121395.index
+3387756443.index
+1684422309.index
+2754705351.index
+1166933839.index
+4128443153.index
